@@ -1,5 +1,4 @@
-
-// Student subclass that extends Person
+x// Student subclass that extends Person
 public class Student extends Person {
     private String department;
   
